@@ -1,4 +1,4 @@
-![](Imgs\menu.png)
+![](../media/menu.png?raw=true)
 
 Este trabalho foi desenvolvido em virtude da APS (Atividade Prática Supervisionada) proposta aos alunos do segundo semestre de Ciência da Computação da UNIP (Universidade Paulista), sendo concluído em 2019.
 
@@ -6,7 +6,7 @@ O objetivo é dissertar sobre os conceitos pertinentes à criptografia e suas di
 
 O programa, escrito em Python, apresenta uma interface de linha de comando e permite que o usuário criptografe e descriptografe mensagens de texto ou hexadecimais utilizando uma chave hexadecimal de dezesseis dígitos como exemplificado abaixo.
 
-![](Imgs\encriptacao.png "Encriptação")
+![](../media/encriptacao.png?raw=true "Encriptação")
 
-![](Imgs\decriptacao.png "Decriptação")
+![](../media/decriptacao.png?raw=true "Decriptação")
 
