@@ -10,4 +10,4 @@ O programa, escrito em Python, apresenta uma interface de linha de comando e per
 
 ![](../media/decriptacao.png?raw=true "Decriptação")
 
-O arquivo [criptografiaDES.py]("Programa APS Cptgf"/criptografiaDES.py) deve ser executado para abrir o programa.
+O arquivo [criptografiaDES.py](ProgramaAPSCptgf/criptografiaDES.py) deve ser executado para abrir o programa.
